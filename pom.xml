@@ -4,10 +4,10 @@
     <parent>
         <artifactId>furdroid</artifactId>
         <groupId>systems.furdei</groupId>
-        <version>1.1.1-SNAPSHOT</version>
+        <version>1.1.1</version>
     </parent>
     <artifactId>ripple-drawable</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <packaging>aar</packaging>
     <name>Ripple Drawable</name>
     <description>RippleDrawable support library for backward compatibility</description>
@@ -25,7 +25,7 @@
       <url>https://github.com/furdei/ripple-drawable</url>
       <connection>scm:git:git://github.com/furdei/ripple-drawable.git</connection>
       <developerConnection>scm:git:https://github.com/furdei/ripple-drawable.git</developerConnection>
-      <tag>ripple-drawable-1.0</tag>
+      <tag>ripple-drawable-1.1.1</tag>
     </scm>
 
     <dependencies>
